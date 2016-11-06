@@ -1,0 +1,6 @@
+node_modules
+.tmp
+.sass-cache
+images/**
+slides/**
+builds/istoneUppgift/css/style.css
